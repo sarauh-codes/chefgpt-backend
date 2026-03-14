@@ -7,3 +7,4 @@ gunicorn
 pandas
 scikit-learn
 numpy
+sentence-transformers
